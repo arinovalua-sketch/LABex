@@ -1,0 +1,55 @@
+# Lab 2 - Use Case Diagram
+
+## System: Lost & Found Portal
+
+This lab demonstrates a Use Case Diagram for a Lost & Found Portal system, showing how users interact with the system to report and search for lost items.
+
+---
+
+## Actors
+
+* **User** – interacts with the system to report lost or found items and search for items
+* **Admin** – manages reports and system data
+
+---
+
+## Use Cases
+
+* Register
+* Login
+* Report Lost Item
+* Report Found Item
+* Search Item
+* Contact Owner
+* Manage Reports
+
+---
+
+## Relationships
+
+* **Report Lost Item** <<include>> Login
+* **Report Found Item** <<include>> Login
+* **Contact Owner** <<extend>> Search Item
+
+---
+
+## Diagram
+![Use Case Diagram](lost_and_found_usecase.pdf)
+
+---
+
+## Description
+
+The Lost & Found Portal allows users to register and log into the system. Once authenticated, users can report lost or found items. They can also search for items and contact the owner if a match is found.
+
+The admin is responsible for managing all reports and maintaining system integrity.
+
+---
+
+## Notes
+
+* The <<include>> relationship ensures that users must log in before reporting items
+* The <<extend>> relationship indicates that contacting the owner is optional and occurs after searching
+
+---
+
