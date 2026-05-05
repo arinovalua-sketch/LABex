@@ -35,7 +35,8 @@ This lab demonstrates a Use Case Diagram for a Lost & Found Portal system, showi
 
 ## Diagram
 
-[Open Use Case Diagram (PDF)](lost_and_found_usecase.pdf)
+[lost_and_found_usecase.pdf](https://github.com/user-attachments/files/27381967/lost_and_found_usecase.pdf)
+
 
 ---
 
