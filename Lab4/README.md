@@ -59,7 +59,8 @@ This diagram represents the workflow of a patient interacting with a medical cli
 6. Prescription or treatment is provided
 
 📄 Diagram:
-[Open Medical Clinic Diagram (PDF)](Medical clinic.pdf) 
+[Medical clinic.pdf](https://github.com/user-attachments/files/27382205/Medical.clinic.pdf)
+ 
 
 ---
 
@@ -86,8 +87,8 @@ This diagram shows the process of handling an insurance claim.
 6. Customer receives compensation
 
 📄 Diagram:
-[Open Car Insurance Diagram (PDF)](Car insurance.pdf) 
-
+[Car insurance.pdf](https://github.com/user-attachments/files/27382222/Car.insurance.pdf)
+ 
 ---
 
 ## Notes
